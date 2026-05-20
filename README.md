@@ -10,3 +10,4 @@
 * test 1
 * test 2 with ls -l job2_folder
 * test 3
+* test 4 edited security group to allow from anywhere
