@@ -8,3 +8,4 @@
 
 ### testing job 3
 * test 1
+* test 2 with ls -l job2_folder
