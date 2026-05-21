@@ -13,4 +13,4 @@
 * test 4 edited security group to allow from anywhere
 * test 5 testing npm start
 * test 6 with git plugin
-* test 6 with git plugin started ec2
+* test 7 with git plugin started ec2
