@@ -12,3 +12,4 @@
 * test 3
 * test 4 edited security group to allow from anywhere
 * test 5 testing npm start
+* test 6 with git plugin
